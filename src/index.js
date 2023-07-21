@@ -1,5 +1,4 @@
 const { MetaMaskSDK } = require('@metamask/sdk');
-const ethers = require('ethers')
 
 const MMSDK = new MetaMaskSDK({
     dappMetadata: {
